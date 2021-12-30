@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "feee3d4c1f9bd7a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "865783fa25345ecc",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "Papers to read/Nb-W I.pdf"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e9dd34dee78ac5a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "25a178bf574fefe7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91aebde2e59aded0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2035a6a9e4fc8eeb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f7ab0cb2096af855",
+    "type": "split",
+    "children": [
+      {
+        "id": "75bb6105f0655568",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1efa305ef9ac4905",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Papers to read/Nb-W I.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "865783fa25345ecc",
+  "lastOpenFiles": [
+    "Papers to read/Nb-W I.pdf",
+    "Reference Literature/Roth - Multiple phase formation in the binary system Nb2O5-WO3..md",
+    "Reference Literature/H-Nb2O5 wired by tetragonal tungsten bronze.md",
+    "Reference Literature/H-Nb2O5 defects.md",
+    "Manual.md",
+    "Reference Literature/PNb9O25 DFT 1.md",
+    "Reference Literature/PNb9O25 DFT 2.md",
+    "Reference Literature/Psuedocapacitance theory.md",
+    "Reference Literature/Psuedocapacitance review.md",
+    "Reference Literature/Psuedocapacitance Bruce dunn.md"
+  ]
+}

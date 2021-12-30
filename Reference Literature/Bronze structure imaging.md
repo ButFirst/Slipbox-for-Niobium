@@ -1,0 +1,7 @@
+#Bronze
+#tungsten
+#structurestudy
+
+[Atomic resolution imaging of cation ordering in niobium–tungsten complex oxides](https://www.nature.com/articles/s43246-021-00128-z)
+
+Energy dispersive X-ray emission imaging at atomic resolution is a powerful tool to solve order–disorder problems in complex metal oxide crystals, supplementing conventional X-ray or neutron diffraction. Here, we use this method, based on scanning transmission electron microscopy, to investigate cation ordering in ternary metal oxides 4Nb2O5·9WO3 and 2Nb2O5·7WO3, which have recently attracted attention as energy storage materials in lithium-ion batteries. Their crystal structures are a tetragonal tungsten bronze-type and its hybrid with a ReO3-type ‘block structure’, respectively. Our study reveals the presence of chemical ordering of metal ions in these materials, which have previously been assumed to be solid-solutions. In particular, we show that the two types of cations, Nb and W, are well ordered in their lattices, and that the Nb ions tend to occupy one third of the pentagonal channel sites. These results demonstrate that atomic resolution X-ray emission imaging is an effective alternative approach for the study of locally ordered crystal structures.
