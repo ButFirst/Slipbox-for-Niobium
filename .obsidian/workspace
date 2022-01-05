@@ -9,7 +9,7 @@
         "state": {
           "type": "pdf",
           "state": {
-            "file": "Papers to read/Nb-W I.pdf"
+            "file": "Papers to read/Nb-W VII.pdf"
           }
         }
       }
@@ -67,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers to read/Nb-W I.pdf",
+                "file": "Papers to read/Nb-W VII.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "865783fa25345ecc",
   "lastOpenFiles": [
+    "Papers to read/Nb-W VII.pdf",
+    "Papers to read/Nb-W VI.pdf",
     "Papers to read/Nb-W I.pdf",
+    "Papers to read/Nb-W II.pdf",
+    "Papers to read/Nb-W III.pdf",
+    "Papers to read/Nb-W IV.pdf",
+    "Papers to read/Nb-W V.pdf",
+    "Papers to read/H-Nb2O5 wired by tetragonal tungsten.pdf",
     "Reference Literature/Roth - Multiple phase formation in the binary system Nb2O5-WO3..md",
-    "Reference Literature/H-Nb2O5 wired by tetragonal tungsten bronze.md",
-    "Reference Literature/H-Nb2O5 defects.md",
-    "Manual.md",
-    "Reference Literature/PNb9O25 DFT 1.md",
-    "Reference Literature/PNb9O25 DFT 2.md",
-    "Reference Literature/Psuedocapacitance theory.md",
-    "Reference Literature/Psuedocapacitance review.md",
-    "Reference Literature/Psuedocapacitance Bruce dunn.md"
+    "Reference Literature/H-Nb2O5 wired by tetragonal tungsten bronze.md"
   ]
 }
