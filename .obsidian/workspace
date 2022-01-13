@@ -7,9 +7,10 @@
         "id": "865783fa25345ecc",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "Papers to read/Nb-W VII.pdf"
+            "file": "M-Nb2O5.md",
+            "mode": "source"
           }
         }
       }
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers to read/Nb-W VII.pdf",
+                "file": "M-Nb2O5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +88,15 @@
   },
   "active": "865783fa25345ecc",
   "lastOpenFiles": [
-    "Papers to read/Nb-W VII.pdf",
-    "Papers to read/Nb-W VI.pdf",
-    "Papers to read/Nb-W I.pdf",
+    "M-Nb2O5.md",
+    "Reference Literature/TNO and FeNb11O29.md",
+    "Manual.md",
+    "Reference Literature/Zn2Nb34o87.md",
     "Papers to read/Nb-W II.pdf",
-    "Papers to read/Nb-W III.pdf",
-    "Papers to read/Nb-W IV.pdf",
-    "Papers to read/Nb-W V.pdf",
-    "Papers to read/H-Nb2O5 wired by tetragonal tungsten.pdf",
-    "Reference Literature/Roth - Multiple phase formation in the binary system Nb2O5-WO3..md",
-    "Reference Literature/H-Nb2O5 wired by tetragonal tungsten bronze.md"
+    "Reference Literature/Nb31O77F and Nb17O42F.md",
+    "Reference Literature/Nb3O7F.md",
+    "Reference Literature/FeNb11O29 doping 2.md",
+    "Reference Literature/FeNb11O29 doping.md",
+    "Reference Literature/Fe0.5Nb24.5O62-x @C.md"
   ]
 }
