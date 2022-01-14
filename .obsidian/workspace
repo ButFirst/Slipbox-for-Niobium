@@ -7,10 +7,9 @@
         "id": "865783fa25345ecc",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "M-Nb2O5.md",
-            "mode": "source"
+            "file": "Papers to read/defects Nb2O5.pdf"
           }
         }
       }
@@ -68,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "M-Nb2O5.md",
+                "file": "Papers to read/defects Nb2O5.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +87,15 @@
   },
   "active": "865783fa25345ecc",
   "lastOpenFiles": [
-    "M-Nb2O5.md",
-    "Reference Literature/TNO and FeNb11O29.md",
+    "Papers to read/defects Nb2O5.pdf",
+    "Reference Literature/Characterisation of niobium oxide received form different sources.md",
     "Manual.md",
-    "Reference Literature/Zn2Nb34o87.md",
-    "Papers to read/Nb-W II.pdf",
-    "Reference Literature/Nb31O77F and Nb17O42F.md",
-    "Reference Literature/Nb3O7F.md",
-    "Reference Literature/FeNb11O29 doping 2.md",
-    "Reference Literature/FeNb11O29 doping.md",
-    "Reference Literature/Fe0.5Nb24.5O62-x @C.md"
+    "Figures/IR result of M-Nb2O5.png",
+    "Figures/OG with temperature.png",
+    "Figures/SA sample with temperature.png",
+    "Reference Literature/M-Nb2O5.md",
+    "Figures/HP with temperature.png",
+    "F.md",
+    "Reference Literature/TNO and FeNb11O29.md"
   ]
 }
