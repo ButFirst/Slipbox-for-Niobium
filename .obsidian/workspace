@@ -7,10 +7,8 @@
         "id": "865783fa25345ecc",
         "type": "leaf",
         "state": {
-          "type": "pdf",
-          "state": {
-            "file": "Papers to read/defects Nb2O5.pdf"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -38,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#synthesisphasediagram",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers to read/defects Nb2O5.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +84,15 @@
   },
   "active": "865783fa25345ecc",
   "lastOpenFiles": [
+    "Untitled.md",
     "Papers to read/defects Nb2O5.pdf",
-    "Reference Literature/Characterisation of niobium oxide received form different sources.md",
-    "Manual.md",
-    "Figures/IR result of M-Nb2O5.png",
-    "Figures/OG with temperature.png",
-    "Figures/SA sample with temperature.png",
-    "Reference Literature/M-Nb2O5.md",
-    "Figures/HP with temperature.png",
-    "F.md",
-    "Reference Literature/TNO and FeNb11O29.md"
+    "Reference Literature/Nb2O5 phase transition review.md",
+    "Tags.md",
+    "Reference Literature/W4Nb26O77.md",
+    "Reference Literature/N-Nb2O5 1.md",
+    "Thoughts/1960s Wadsley and Andersson.md",
+    "Papers to read/Nb2o5 from CBMM.pdf",
+    "Papers to read/Nb-W I.pdf",
+    "Papers to read/H-Nb2O5 wired by tetragonal tungsten.pdf"
   ]
 }
