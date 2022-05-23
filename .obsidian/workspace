@@ -7,10 +7,9 @@
         "id": "865783fa25345ecc",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "Tags.md",
-            "mode": "source"
+            "file": "Fundamental papers on block structures/Nb-W VII.pdf"
           }
         }
       }
@@ -39,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#simulation",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tags.md",
+                "file": "Fundamental papers on block structures/Nb-W VII.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +87,15 @@
   },
   "active": "865783fa25345ecc",
   "lastOpenFiles": [
-    "Tags.md",
-    "Fundamental papers on block structures/defects Nb2O5.pdf",
-    "Reference Literature/(Mo0.3V0.7)2O5 , R-Nb2O5.md",
-    "Fundamental papers on block structures/The modification of Nb2O5.pdf",
     "Fundamental papers on block structures/Nb-W VII.pdf",
     "Fundamental papers on block structures/Nb-W VI.pdf",
-    "Fundamental papers on block structures/Nb-W V.pdf",
-    "Fundamental papers on block structures/Nb-W IV.pdf",
-    "Fundamental papers on block structures/Nb-W III.pdf",
-    "Fundamental papers on block structures/Nb-W II.pdf"
+    "Fundamental papers on block structures/Nb-W I.pdf",
+    "Mo3Nb2O14.md",
+    "Mo3Nb2O14 + Carbon.md",
+    "#WadsleyRoth #Bronze #tungsten #structurestudy #TNO #Fullcell #4x4 #carboncoating  #simulation #PureNb2O5 #psedocapacitive #morphologyengineering #defects #doping  #review #synthesisphasediagram #nonniobium.md",
+    "Tags.md",
+    "Reference Literature/M-Nb2O5.md",
+    "Reference Literature/(W0.2V0.8)3O7.md",
+    "Reference Literature/(Mo0.3V0.7)2O5 , R-Nb2O5.md"
   ]
 }
